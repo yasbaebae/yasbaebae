@@ -1,3 +1,3 @@
 ### t.s
 name:yas 
-![](https://tenor.com/bxdIJ.gif)
+![t](https://tenor.com/bxdIJ.gif)
