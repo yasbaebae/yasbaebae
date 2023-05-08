@@ -1,5 +1,3 @@
-### Hello
-- 😄 Pronouns: she\her
+### t.s
 name:yas 
-
-![](https://tenor.com/bEyk1.gif)
+![](https://tenor.com/bxdIJ.gif)
