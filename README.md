@@ -1,3 +1,6 @@
 ### t.s
 name:yas 
-![t](https://tenor.com/bxdIJ.gif)
+
+estudo no [Alura](https://www.alura.com.br)
+
+[Imagem](https://tenor.com/bFfCa.gif)
